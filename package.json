@@ -1,0 +1,28 @@
+{
+  "name": "remove-unwantedjs-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A Webpack plugin that automatically removes .js files created as a by-product when the entry is a sass/scss file",
+  "main": "remove-unwantedjs-webpack-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshanags/remove-unwantedjs-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack4",
+    "clean",
+    "remove",
+    "sass",
+    "scss",
+    "js"
+  ],
+  "author": "Darshana Siriwardana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darshanags/remove-unwantedjs-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/darshanags/remove-unwantedjs-webpack-plugin#readme"
+}
