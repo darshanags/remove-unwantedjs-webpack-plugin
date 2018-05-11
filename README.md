@@ -1,5 +1,7 @@
 # remove-unwantedjs-webpack-plugin
-A [Webpack](https://webpack.js.org/) plugin that automatically removes .js files created as a by-product when the entry is a sass/scss file.
+A [Webpack 4](https://webpack.js.org/) plugin that automatically removes .js files created as a by-product when the entry is a sass/scss file.
+
+*Note that this has only been tested with Webpack 4.*
 
 ## Installation
 ```shell
